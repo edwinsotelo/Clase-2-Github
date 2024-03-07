@@ -15,4 +15,13 @@
 
 ## git commit -m
 ### Descripcion:
-####Permite nombrar los cambios preparados en ese momento del proyecto. 
+####Permite nombrar los cambios preparados en ese momento del proyecto.
+
+## git push
+### Descripcion:
+####Permite subir el contenido de un repositorio local a un repositorio central.
+
+
+## git pull
+### Descripcion:
+####Permite sbajar el contenido de un repositorio central a un repositorio local.
