@@ -32,7 +32,7 @@
 
 ## git pull
 ### Descripcion:
-*Permite sbajar el contenido de un repositorio central a un repositorio local.*
+*Permite bajar el contenido de un repositorio central a un repositorio local.*
 
 ![git_pull](./images/git_pull.jpg)
 
