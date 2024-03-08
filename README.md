@@ -13,25 +13,25 @@
 ![git_status](./images/git_status.jpg)
 
 ## git add
-## Descripcion:
+### Descripcion:
 *Añade una modificación presente en el working directory al staging area.*
 
 ![git_add](./images/git_add.jpg)
 
 ## git commit -m
-## Descripcion:
+### Descripcion:
 *Permite nombrar los cambios preparados en ese momento del proyecto.*
 
 ![git_commit](./images/git_commit.jpg)
 
 ## git push
-## Descripcion:
+### Descripcion:
 *Permite subir el contenido de un repositorio local a un repositorio central.*
 
 ![git_push](./images/git_push.jpg)
 
 ## git pull
-## Descripcion:
+### Descripcion:
 *Permite sbajar el contenido de un repositorio central a un repositorio local.*
 
 ![git_pull](./images/git_pull.jpg)
