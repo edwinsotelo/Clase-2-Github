@@ -2,7 +2,7 @@
 
 # git log
 ## Descripcion: 
-### *permite visualizar el historial de los commit con el fin de buscar cambios específicos.*
+#### _permite visualizar el historial de los commit con el fin de buscar cambios específicos._
  ![git_log](./images/git_log.jpg)
 
 ## git status
