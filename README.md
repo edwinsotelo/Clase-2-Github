@@ -1,12 +1,13 @@
-# # COMANDOS GIT
+# COMANDOS GIT
 
-## git log
-### Descripcion:
-####*permite visualizar el historial de los commit con el fin de buscar cambios específicos.* 
+# git log
+## Descripcion: 
+
+### permite visualizar el historial de los commit con el fin de buscar cambios específicos
  ![git_log](./images/git_log.jpg)
 
 ## git status
-### Descripcion:
+Descripcion:
 ####*Muestra el estado actual del area de trabajo, permitiendo ver que archivos han sido modificados.*
 ![git_status](./images/git_status.jpg)
 ## git add
