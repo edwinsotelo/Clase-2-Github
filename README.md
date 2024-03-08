@@ -12,7 +12,7 @@
 ## git add
 ### Descripcion:
 ####Añade una modificación presente en el working directory al staging area.
-![git_add](https://github.com/edwinsotelo/Clase-2-Github/blob/main/git_add.jpg?raw=true)
+![git_add](https://drive.google.com/file/d/1E0tmiMbN76EP_v9cGAZaJWbrEQDArWI1/view?usp=drive_link)
 ## git commit -m
 ### Descripcion:
 ####Permite nombrar los cambios preparados en ese momento del proyecto.
